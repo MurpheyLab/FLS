@@ -1,8 +1,10 @@
 # FLS: Scale-Invariant Fast Functional Registration 
 
+<img src="./img/fls_header_1.png" alt="drawing" width="600"/>
+
 This repositoriy contains implementaion of the functional least-squares (FLS) algorithm from to the paper *[Scale-Invariant Fast Functional Registration](https://arxiv.org/abs/2209.12763)*. 
 
-FLS is a point cloud registration algorithm with support for unknown scale, partial overlap, and varying densities. 
+FLS is a point cloud registration algorithm with support for unknown scale, partial overlap, and varying densities. More demonstrations can found in the [project website](https://sites.google.com/view/fls-isrr2022/).
 
 This repository contains implementation of FLS in two forms: (1) a C++ library that can easily used for computer vision tasks; (2) a JAX implementation with potential application in learning-based task.
 
