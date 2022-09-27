@@ -27,7 +27,7 @@ The source code of the C++ implementation is under the directory `fls-plusplus`.
 
 ## JAX Implementation
 
-The source code of the [JAX](https://github.com/google/jax) implementation is under the directory `fls-jax`. Information regarding installation and usage can be found under the same directory.
+The source code of the [JAX](https://github.com/google/jax) implementation is under the directory `fls-jax`. Information regarding installation and usage can be found under the same directory. You can try the algorithm without installation via [**Colab**](https://colab.research.google.com/github/MurpheyLab/FLS/blob/master/fls-jax/tutorial_2.ipynb).
 
 ## Copyright and License
 
