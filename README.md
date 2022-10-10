@@ -11,7 +11,7 @@ This repository contains implementation of FLS in two forms: (1) a C++ library t
 If you find FLS helpful and use it your projects, please cite the project as below:
 
 ```
-@INPROCEEDINGS{SunM-ISRR-21, 
+@INPROCEEDINGS{SunM-ISRR-22, 
     AUTHOR    = {Muchen Sun AND Allison Pinosky AND Ian Abraham AND Todd Murphey}, 
     TITLE     = {{Scale-Invariant Fast Functional Registration}}, 
     BOOKTITLE = {Proceedings of International Symposium of Robotics Research}, 
